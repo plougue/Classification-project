@@ -1,6 +1,6 @@
 # Classification project 2018
 
-## Introduction
+## Important notes
 
 **ALL DOCUMENTS ARE IN FRENCH**
 
