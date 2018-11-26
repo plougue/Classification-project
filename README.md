@@ -1,4 +1,4 @@
-# Classification project
+# Classification project 2018
 
 This academic classification project was included in a course at the [UTC](https://www.utc.fr/) in collaboration with [CapucinePr](https://github.com/CapucinePr/).
 
